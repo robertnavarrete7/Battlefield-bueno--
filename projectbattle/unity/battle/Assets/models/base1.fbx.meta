@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 2f96bba29553d8344836dedd205c0546
+timeCreated: 1527434522
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cadena
+    100004: cadena1
+    100006: columns
+    100008: columns1
+    100010: columns_colum_R1
+    100012: columns_colum_R1 1
+    100014: escaleras
+    100016: escaleras1
+    100018: floor_escaleras
+    100020: lamp
+    100022: lamp 1
+    100024: luz
+    100026: luz 1
+    100028: luz1
+    100030: pCube1
+    100032: pCube1 1
+    100034: pCube1 10
+    100036: pCube1 11
+    100038: pCube1 12
+    100040: pCube1 2
+    100042: pCube1 3
+    100044: pCube1 4
+    100046: pCube1 5
+    100048: pCube1 6
+    100050: pCube1 7
+    100052: pCube1 8
+    100054: pCube1 9
+    100056: polySurface2
+    100058: radiador
+    100060: radiador 1
+    100062: radiador 2
+    100064: radiador 3
+    100066: radiador 4
+    100068: radiador 5
+    100070: radiador1
+    100072: radiador1 1
+    100074: radiador1 2
+    100076: radiador1 3
+    100078: radiador10
+    100080: radiador10 1
+    100082: radiador10 2
+    100084: radiador10 3
+    100086: radiador11
+    100088: radiador11 1
+    100090: radiador11 2
+    100092: radiador11 3
+    100094: radiador12
+    100096: radiador12 1
+    100098: radiador12 2
+    100100: radiador12 3
+    100102: radiador13
+    100104: radiador13 1
+    100106: radiador13 2
+    100108: radiador13 3
+    100110: radiador14
+    100112: radiador14 1
+    100114: radiador14 2
+    100116: radiador14 3
+    100118: radiador15
+    100120: radiador15 1
+    100122: radiador15 2
+    100124: radiador15 3
+    100126: radiador16
+    100128: radiador16 1
+    100130: radiador16 2
+    100132: radiador16 3
+    100134: radiador17
+    100136: radiador17 1
+    100138: radiador17 2
+    100140: radiador17 3
+    100142: radiador18
+    100144: radiador19
+    100146: radiador2
+    100148: radiador2 1
+    100150: radiador2 2
+    100152: radiador2 3
+    100154: radiador20
+    100156: radiador3
+    100158: radiador3 1
+    100160: radiador3 2
+    100162: radiador3 3
+    100164: radiador4
+    100166: radiador4 1
+    100168: radiador4 2
+    100170: radiador4 3
+    100172: radiador5
+    100174: radiador5 1
+    100176: radiador5 2
+    100178: radiador5 3
+    100180: radiador6
+    100182: radiador6 1
+    100184: radiador6 2
+    100186: radiador6 3
+    100188: radiador7
+    100190: radiador7 1
+    100192: radiador7 2
+    100194: radiador7 3
+    100196: radiador8
+    100198: radiador8 1
+    100200: radiador8 2
+    100202: radiador8 3
+    100204: radiador9
+    100206: radiador9 1
+    100208: radiador9 2
+    100210: radiador9 3
+    100212: rejilla
+    100214: rejilla 1
+    100216: rejilla1
+    100218: rejilla10
+    100220: rejilla11
+    100222: rejilla12
+    100224: rejilla13
+    100226: rejilla2
+    100228: rejilla3
+    100230: rejilla4
+    100232: rejilla5
+    100234: rejilla6
+    100236: rejilla7
+    100238: rejilla8
+    100240: rejilla9
+    100242: taquilla
+    100244: taquilla 1
+    100246: taquilla 10
+    100248: taquilla 11
+    100250: taquilla 12
+    100252: taquilla 13
+    100254: taquilla 14
+    100256: taquilla 15
+    100258: taquilla 2
+    100260: taquilla 3
+    100262: taquilla 4
+    100264: taquilla 5
+    100266: taquilla 6
+    100268: taquilla 7
+    100270: taquilla 8
+    100272: taquilla 9
+    100274: taquilla_01
+    100276: taquilla_010
+    100278: taquilla_011
+    100280: taquilla_012
+    100282: taquilla_013
+    100284: taquilla_014
+    100286: taquilla_015
+    100288: taquilla_02
+    100290: taquilla_03
+    100292: taquilla_04
+    100294: taquilla_05
+    100296: taquilla_06
+    100298: taquilla_07
+    100300: taquilla_08
+    100302: taquilla_09
+    100304: techo
+    100306: techo 1
+    100308: techo1
+    100310: techo2
+    100312: transform1
+    100314: tuberia
+    100316: tuberia1
+    100318: tuberia2
+    100320: tuberia3
+    100322: tuberia4
+    100324: tuberias
+    100326: varandilla
+    100328: varandilla 1
+    100330: varandilla1
+    100332: ventana
+    100334: ventana1
+    100336: ventana2
+    100338: ventana3
+    100340: ventana4
+    100342: ventana5
+    100344: ventanas
+    100346: wall
+    100348: wall_01_L
+    100350: wall_01_R
+    100352: wall_02_L
+    100354: wall_02_L1
+    100356: wall_03_L1
+    100358: wall_03_R1
+    100360: wall_0_center2
+    100362: wall_0_center3
+    100364: wall_modular_01
+    100366: wall_modular_02
+    100368: wall_modular_03
+    100370: wall_modular_04
+    100372: wall_modular_05
+    100374: wall_modular_06
+    400000: //RootNode
+    400002: cadena
+    400004: cadena1
+    400006: columns
+    400008: columns1
+    400010: columns_colum_R1
+    400012: columns_colum_R1 1
+    400014: escaleras
+    400016: escaleras1
+    400018: floor_escaleras
+    400020: lamp
+    400022: lamp 1
+    400024: luz
+    400026: luz 1
+    400028: luz1
+    400030: pCube1
+    400032: pCube1 1
+    400034: pCube1 10
+    400036: pCube1 11
+    400038: pCube1 12
+    400040: pCube1 2
+    400042: pCube1 3
+    400044: pCube1 4
+    400046: pCube1 5
+    400048: pCube1 6
+    400050: pCube1 7
+    400052: pCube1 8
+    400054: pCube1 9
+    400056: polySurface2
+    400058: radiador
+    400060: radiador 1
+    400062: radiador 2
+    400064: radiador 3
+    400066: radiador 4
+    400068: radiador 5
+    400070: radiador1
+    400072: radiador1 1
+    400074: radiador1 2
+    400076: radiador1 3
+    400078: radiador10
+    400080: radiador10 1
+    400082: radiador10 2
+    400084: radiador10 3
+    400086: radiador11
+    400088: radiador11 1
+    400090: radiador11 2
+    400092: radiador11 3
+    400094: radiador12
+    400096: radiador12 1
+    400098: radiador12 2
+    400100: radiador12 3
+    400102: radiador13
+    400104: radiador13 1
+    400106: radiador13 2
+    400108: radiador13 3
+    400110: radiador14
+    400112: radiador14 1
+    400114: radiador14 2
+    400116: radiador14 3
+    400118: radiador15
+    400120: radiador15 1
+    400122: radiador15 2
+    400124: radiador15 3
+    400126: radiador16
+    400128: radiador16 1
+    400130: radiador16 2
+    400132: radiador16 3
+    400134: radiador17
+    400136: radiador17 1
+    400138: radiador17 2
+    400140: radiador17 3
+    400142: radiador18
+    400144: radiador19
+    400146: radiador2
+    400148: radiador2 1
+    400150: radiador2 2
+    400152: radiador2 3
+    400154: radiador20
+    400156: radiador3
+    400158: radiador3 1
+    400160: radiador3 2
+    400162: radiador3 3
+    400164: radiador4
+    400166: radiador4 1
+    400168: radiador4 2
+    400170: radiador4 3
+    400172: radiador5
+    400174: radiador5 1
+    400176: radiador5 2
+    400178: radiador5 3
+    400180: radiador6
+    400182: radiador6 1
+    400184: radiador6 2
+    400186: radiador6 3
+    400188: radiador7
+    400190: radiador7 1
+    400192: radiador7 2
+    400194: radiador7 3
+    400196: radiador8
+    400198: radiador8 1
+    400200: radiador8 2
+    400202: radiador8 3
+    400204: radiador9
+    400206: radiador9 1
+    400208: radiador9 2
+    400210: radiador9 3
+    400212: rejilla
+    400214: rejilla 1
+    400216: rejilla1
+    400218: rejilla10
+    400220: rejilla11
+    400222: rejilla12
+    400224: rejilla13
+    400226: rejilla2
+    400228: rejilla3
+    400230: rejilla4
+    400232: rejilla5
+    400234: rejilla6
+    400236: rejilla7
+    400238: rejilla8
+    400240: rejilla9
+    400242: taquilla
+    400244: taquilla 1
+    400246: taquilla 10
+    400248: taquilla 11
+    400250: taquilla 12
+    400252: taquilla 13
+    400254: taquilla 14
+    400256: taquilla 15
+    400258: taquilla 2
+    400260: taquilla 3
+    400262: taquilla 4
+    400264: taquilla 5
+    400266: taquilla 6
+    400268: taquilla 7
+    400270: taquilla 8
+    400272: taquilla 9
+    400274: taquilla_01
+    400276: taquilla_010
+    400278: taquilla_011
+    400280: taquilla_012
+    400282: taquilla_013
+    400284: taquilla_014
+    400286: taquilla_015
+    400288: taquilla_02
+    400290: taquilla_03
+    400292: taquilla_04
+    400294: taquilla_05
+    400296: taquilla_06
+    400298: taquilla_07
+    400300: taquilla_08
+    400302: taquilla_09
+    400304: techo
+    400306: techo 1
+    400308: techo1
+    400310: techo2
+    400312: transform1
+    400314: tuberia
+    400316: tuberia1
+    400318: tuberia2
+    400320: tuberia3
+    400322: tuberia4
+    400324: tuberias
+    400326: varandilla
+    400328: varandilla 1
+    400330: varandilla1
+    400332: ventana
+    400334: ventana1
+    400336: ventana2
+    400338: ventana3
+    400340: ventana4
+    400342: ventana5
+    400344: ventanas
+    400346: wall
+    400348: wall_01_L
+    400350: wall_01_R
+    400352: wall_02_L
+    400354: wall_02_L1
+    400356: wall_03_L1
+    400358: wall_03_R1
+    400360: wall_0_center2
+    400362: wall_0_center3
+    400364: wall_modular_01
+    400366: wall_modular_02
+    400368: wall_modular_03
+    400370: wall_modular_04
+    400372: wall_modular_05
+    400374: wall_modular_06
+    2100000: lambert1
+    2300000: cadena
+    2300002: cadena1
+    2300004: columns_colum_R1
+    2300006: columns_colum_R1 1
+    2300008: escaleras
+    2300010: escaleras1
+    2300012: lamp 1
+    2300014: luz 1
+    2300016: luz1
+    2300018: pCube1
+    2300020: pCube1 1
+    2300022: pCube1 10
+    2300024: pCube1 11
+    2300026: pCube1 12
+    2300028: pCube1 2
+    2300030: pCube1 3
+    2300032: pCube1 4
+    2300034: pCube1 5
+    2300036: pCube1 6
+    2300038: pCube1 7
+    2300040: pCube1 8
+    2300042: pCube1 9
+    2300044: polySurface2
+    2300046: radiador 2
+    2300048: radiador 3
+    2300050: radiador 4
+    2300052: radiador 5
+    2300054: radiador1
+    2300056: radiador1 1
+    2300058: radiador1 2
+    2300060: radiador1 3
+    2300062: radiador10
+    2300064: radiador10 1
+    2300066: radiador10 2
+    2300068: radiador10 3
+    2300070: radiador11
+    2300072: radiador11 1
+    2300074: radiador11 2
+    2300076: radiador11 3
+    2300078: radiador12
+    2300080: radiador12 1
+    2300082: radiador12 2
+    2300084: radiador12 3
+    2300086: radiador13
+    2300088: radiador13 1
+    2300090: radiador13 2
+    2300092: radiador13 3
+    2300094: radiador14
+    2300096: radiador14 1
+    2300098: radiador14 2
+    2300100: radiador14 3
+    2300102: radiador15
+    2300104: radiador15 1
+    2300106: radiador15 2
+    2300108: radiador15 3
+    2300110: radiador16
+    2300112: radiador16 1
+    2300114: radiador16 2
+    2300116: radiador16 3
+    2300118: radiador17
+    2300120: radiador17 1
+    2300122: radiador17 2
+    2300124: radiador17 3
+    2300126: radiador2
+    2300128: radiador2 1
+    2300130: radiador2 2
+    2300132: radiador2 3
+    2300134: radiador3
+    2300136: radiador3 1
+    2300138: radiador3 2
+    2300140: radiador3 3
+    2300142: radiador4
+    2300144: radiador4 1
+    2300146: radiador4 2
+    2300148: radiador4 3
+    2300150: radiador5
+    2300152: radiador5 1
+    2300154: radiador5 2
+    2300156: radiador5 3
+    2300158: radiador6
+    2300160: radiador6 1
+    2300162: radiador6 2
+    2300164: radiador6 3
+    2300166: radiador7
+    2300168: radiador7 1
+    2300170: radiador7 2
+    2300172: radiador7 3
+    2300174: radiador8
+    2300176: radiador8 1
+    2300178: radiador8 2
+    2300180: radiador8 3
+    2300182: radiador9
+    2300184: radiador9 1
+    2300186: radiador9 2
+    2300188: radiador9 3
+    2300190: rejilla 1
+    2300192: rejilla1
+    2300194: rejilla10
+    2300196: rejilla11
+    2300198: rejilla12
+    2300200: rejilla13
+    2300202: rejilla2
+    2300204: rejilla3
+    2300206: rejilla4
+    2300208: rejilla5
+    2300210: rejilla6
+    2300212: rejilla7
+    2300214: rejilla8
+    2300216: rejilla9
+    2300218: taquilla 1
+    2300220: taquilla 10
+    2300222: taquilla 11
+    2300224: taquilla 12
+    2300226: taquilla 13
+    2300228: taquilla 14
+    2300230: taquilla 15
+    2300232: taquilla 2
+    2300234: taquilla 3
+    2300236: taquilla 4
+    2300238: taquilla 5
+    2300240: taquilla 6
+    2300242: taquilla 7
+    2300244: taquilla 8
+    2300246: taquilla 9
+    2300248: techo 1
+    2300250: techo1
+    2300252: techo2
+    2300254: tuberia
+    2300256: tuberia1
+    2300258: tuberia2
+    2300260: tuberia3
+    2300262: tuberia4
+    2300264: varandilla 1
+    2300266: varandilla1
+    2300268: ventana
+    2300270: ventana1
+    2300272: ventana2
+    2300274: ventana3
+    2300276: ventana4
+    2300278: ventana5
+    2300280: wall_01_L
+    2300282: wall_01_R
+    2300284: wall_02_L
+    2300286: wall_02_L1
+    2300288: wall_03_L1
+    2300290: wall_03_R1
+    2300292: wall_0_center2
+    2300294: wall_0_center3
+    2300296: wall_modular_01
+    2300298: wall_modular_02
+    2300300: wall_modular_03
+    2300302: wall_modular_04
+    2300304: wall_modular_05
+    2300306: wall_modular_06
+    3300000: cadena
+    3300002: cadena1
+    3300004: columns_colum_R1
+    3300006: columns_colum_R1 1
+    3300008: escaleras
+    3300010: escaleras1
+    3300012: lamp 1
+    3300014: luz 1
+    3300016: luz1
+    3300018: pCube1
+    3300020: pCube1 1
+    3300022: pCube1 10
+    3300024: pCube1 11
+    3300026: pCube1 12
+    3300028: pCube1 2
+    3300030: pCube1 3
+    3300032: pCube1 4
+    3300034: pCube1 5
+    3300036: pCube1 6
+    3300038: pCube1 7
+    3300040: pCube1 8
+    3300042: pCube1 9
+    3300044: polySurface2
+    3300046: radiador 2
+    3300048: radiador 3
+    3300050: radiador 4
+    3300052: radiador 5
+    3300054: radiador1
+    3300056: radiador1 1
+    3300058: radiador1 2
+    3300060: radiador1 3
+    3300062: radiador10
+    3300064: radiador10 1
+    3300066: radiador10 2
+    3300068: radiador10 3
+    3300070: radiador11
+    3300072: radiador11 1
+    3300074: radiador11 2
+    3300076: radiador11 3
+    3300078: radiador12
+    3300080: radiador12 1
+    3300082: radiador12 2
+    3300084: radiador12 3
+    3300086: radiador13
+    3300088: radiador13 1
+    3300090: radiador13 2
+    3300092: radiador13 3
+    3300094: radiador14
+    3300096: radiador14 1
+    3300098: radiador14 2
+    3300100: radiador14 3
+    3300102: radiador15
+    3300104: radiador15 1
+    3300106: radiador15 2
+    3300108: radiador15 3
+    3300110: radiador16
+    3300112: radiador16 1
+    3300114: radiador16 2
+    3300116: radiador16 3
+    3300118: radiador17
+    3300120: radiador17 1
+    3300122: radiador17 2
+    3300124: radiador17 3
+    3300126: radiador2
+    3300128: radiador2 1
+    3300130: radiador2 2
+    3300132: radiador2 3
+    3300134: radiador3
+    3300136: radiador3 1
+    3300138: radiador3 2
+    3300140: radiador3 3
+    3300142: radiador4
+    3300144: radiador4 1
+    3300146: radiador4 2
+    3300148: radiador4 3
+    3300150: radiador5
+    3300152: radiador5 1
+    3300154: radiador5 2
+    3300156: radiador5 3
+    3300158: radiador6
+    3300160: radiador6 1
+    3300162: radiador6 2
+    3300164: radiador6 3
+    3300166: radiador7
+    3300168: radiador7 1
+    3300170: radiador7 2
+    3300172: radiador7 3
+    3300174: radiador8
+    3300176: radiador8 1
+    3300178: radiador8 2
+    3300180: radiador8 3
+    3300182: radiador9
+    3300184: radiador9 1
+    3300186: radiador9 2
+    3300188: radiador9 3
+    3300190: rejilla 1
+    3300192: rejilla1
+    3300194: rejilla10
+    3300196: rejilla11
+    3300198: rejilla12
+    3300200: rejilla13
+    3300202: rejilla2
+    3300204: rejilla3
+    3300206: rejilla4
+    3300208: rejilla5
+    3300210: rejilla6
+    3300212: rejilla7
+    3300214: rejilla8
+    3300216: rejilla9
+    3300218: taquilla 1
+    3300220: taquilla 10
+    3300222: taquilla 11
+    3300224: taquilla 12
+    3300226: taquilla 13
+    3300228: taquilla 14
+    3300230: taquilla 15
+    3300232: taquilla 2
+    3300234: taquilla 3
+    3300236: taquilla 4
+    3300238: taquilla 5
+    3300240: taquilla 6
+    3300242: taquilla 7
+    3300244: taquilla 8
+    3300246: taquilla 9
+    3300248: techo 1
+    3300250: techo1
+    3300252: techo2
+    3300254: tuberia
+    3300256: tuberia1
+    3300258: tuberia2
+    3300260: tuberia3
+    3300262: tuberia4
+    3300264: varandilla 1
+    3300266: varandilla1
+    3300268: ventana
+    3300270: ventana1
+    3300272: ventana2
+    3300274: ventana3
+    3300276: ventana4
+    3300278: ventana5
+    3300280: wall_01_L
+    3300282: wall_01_R
+    3300284: wall_02_L
+    3300286: wall_02_L1
+    3300288: wall_03_L1
+    3300290: wall_03_R1
+    3300292: wall_0_center2
+    3300294: wall_0_center3
+    3300296: wall_modular_01
+    3300298: wall_modular_02
+    3300300: wall_modular_03
+    3300302: wall_modular_04
+    3300304: wall_modular_05
+    3300306: wall_modular_06
+    4300000: lamp
+    4300002: luz1
+    4300004: luz
+    4300006: rejilla
+    4300008: rejilla1
+    4300010: rejilla2
+    4300012: rejilla3
+    4300014: rejilla13
+    4300016: rejilla12
+    4300018: rejilla11
+    4300020: rejilla10
+    4300022: rejilla9
+    4300024: rejilla7
+    4300026: rejilla8
+    4300028: rejilla6
+    4300030: rejilla5
+    4300032: rejilla4
+    4300034: cadena1
+    4300036: cadena
+    4300038: radiador
+    4300040: radiador1
+    4300042: radiador2
+    4300044: radiador3
+    4300046: radiador4
+    4300048: radiador5
+    4300050: radiador6
+    4300052: radiador7
+    4300054: radiador8
+    4300056: radiador9
+    4300058: radiador10
+    4300060: radiador11
+    4300062: radiador12
+    4300064: radiador13
+    4300066: radiador14
+    4300068: radiador15
+    4300070: radiador16
+    4300072: radiador17
+    4300074: radiador
+    4300076: radiador1
+    4300078: radiador2
+    4300080: radiador3
+    4300082: radiador4
+    4300084: radiador5
+    4300086: radiador6
+    4300088: radiador7
+    4300090: radiador8
+    4300092: radiador9
+    4300094: radiador10
+    4300096: radiador11
+    4300098: radiador12
+    4300100: radiador13
+    4300102: radiador14
+    4300104: radiador15
+    4300106: radiador16
+    4300108: radiador17
+    4300110: radiador
+    4300112: radiador1
+    4300114: radiador2
+    4300116: radiador3
+    4300118: radiador4
+    4300120: radiador5
+    4300122: radiador6
+    4300124: radiador7
+    4300126: radiador8
+    4300128: radiador9
+    4300130: radiador10
+    4300132: radiador11
+    4300134: radiador12
+    4300136: radiador13
+    4300138: radiador14
+    4300140: radiador15
+    4300142: radiador16
+    4300144: radiador17
+    4300146: radiador
+    4300148: radiador1
+    4300150: radiador2
+    4300152: radiador3
+    4300154: radiador4
+    4300156: radiador5
+    4300158: radiador6
+    4300160: radiador7
+    4300162: radiador8
+    4300164: radiador9
+    4300166: radiador10
+    4300168: radiador11
+    4300170: radiador12
+    4300172: radiador13
+    4300174: radiador14
+    4300176: radiador15
+    4300178: radiador16
+    4300180: radiador17
+    4300182: ventana4
+    4300184: ventana3
+    4300186: ventana2
+    4300188: ventana1
+    4300190: ventana
+    4300192: ventana5
+    4300194: pCube1
+    4300196: taquilla
+    4300198: pCube1
+    4300200: taquilla
+    4300202: pCube1
+    4300204: taquilla
+    4300206: pCube1
+    4300208: taquilla
+    4300210: pCube1
+    4300212: taquilla
+    4300214: pCube1
+    4300216: taquilla
+    4300218: pCube1
+    4300220: taquilla
+    4300222: taquilla
+    4300224: pCube1
+    4300226: taquilla
+    4300228: pCube1
+    4300230: taquilla
+    4300232: pCube1
+    4300234: taquilla
+    4300236: taquilla
+    4300238: pCube1
+    4300240: taquilla
+    4300242: pCube1
+    4300244: taquilla
+    4300246: pCube1
+    4300248: taquilla
+    4300250: varandilla1
+    4300252: varandilla
+    4300254: tuberia
+    4300256: tuberia1
+    4300258: tuberia2
+    4300260: tuberia3
+    4300262: tuberia4
+    4300264: columns_colum_R1
+    4300266: techo1
+    4300268: techo
+    4300270: techo2
+    4300272: columns_colum_R1
+    4300274: wall_01_R
+    4300276: wall_01_L
+    4300278: wall_02_L
+    4300280: wall_02_L1
+    4300282: wall_03_L1
+    4300284: wall_03_R1
+    4300286: wall_0_center2
+    4300288: wall_modular_01
+    4300290: wall_modular_02
+    4300292: wall_modular_03
+    4300294: wall_modular_04
+    4300296: wall_modular_05
+    4300298: wall_0_center3
+    4300300: wall_modular_06
+    4300302: escaleras
+    4300304: polySurface2
+    4300306: escaleras1
+    6400000: cadena
+    6400002: cadena1
+    6400004: columns_colum_R1
+    6400006: columns_colum_R1 1
+    6400008: escaleras
+    6400010: escaleras1
+    6400012: lamp 1
+    6400014: luz 1
+    6400016: luz1
+    6400018: pCube1
+    6400020: pCube1 1
+    6400022: pCube1 10
+    6400024: pCube1 11
+    6400026: pCube1 12
+    6400028: pCube1 2
+    6400030: pCube1 3
+    6400032: pCube1 4
+    6400034: pCube1 5
+    6400036: pCube1 6
+    6400038: pCube1 7
+    6400040: pCube1 8
+    6400042: pCube1 9
+    6400044: polySurface2
+    6400046: radiador 2
+    6400048: radiador 3
+    6400050: radiador 4
+    6400052: radiador 5
+    6400054: radiador1
+    6400056: radiador1 1
+    6400058: radiador1 2
+    6400060: radiador1 3
+    6400062: radiador10
+    6400064: radiador10 1
+    6400066: radiador10 2
+    6400068: radiador10 3
+    6400070: radiador11
+    6400072: radiador11 1
+    6400074: radiador11 2
+    6400076: radiador11 3
+    6400078: radiador12
+    6400080: radiador12 1
+    6400082: radiador12 2
+    6400084: radiador12 3
+    6400086: radiador13
+    6400088: radiador13 1
+    6400090: radiador13 2
+    6400092: radiador13 3
+    6400094: radiador14
+    6400096: radiador14 1
+    6400098: radiador14 2
+    6400100: radiador14 3
+    6400102: radiador15
+    6400104: radiador15 1
+    6400106: radiador15 2
+    6400108: radiador15 3
+    6400110: radiador16
+    6400112: radiador16 1
+    6400114: radiador16 2
+    6400116: radiador16 3
+    6400118: radiador17
+    6400120: radiador17 1
+    6400122: radiador17 2
+    6400124: radiador17 3
+    6400126: radiador2
+    6400128: radiador2 1
+    6400130: radiador2 2
+    6400132: radiador2 3
+    6400134: radiador3
+    6400136: radiador3 1
+    6400138: radiador3 2
+    6400140: radiador3 3
+    6400142: radiador4
+    6400144: radiador4 1
+    6400146: radiador4 2
+    6400148: radiador4 3
+    6400150: radiador5
+    6400152: radiador5 1
+    6400154: radiador5 2
+    6400156: radiador5 3
+    6400158: radiador6
+    6400160: radiador6 1
+    6400162: radiador6 2
+    6400164: radiador6 3
+    6400166: radiador7
+    6400168: radiador7 1
+    6400170: radiador7 2
+    6400172: radiador7 3
+    6400174: radiador8
+    6400176: radiador8 1
+    6400178: radiador8 2
+    6400180: radiador8 3
+    6400182: radiador9
+    6400184: radiador9 1
+    6400186: radiador9 2
+    6400188: radiador9 3
+    6400190: rejilla 1
+    6400192: rejilla1
+    6400194: rejilla10
+    6400196: rejilla11
+    6400198: rejilla12
+    6400200: rejilla13
+    6400202: rejilla2
+    6400204: rejilla3
+    6400206: rejilla4
+    6400208: rejilla5
+    6400210: rejilla6
+    6400212: rejilla7
+    6400214: rejilla8
+    6400216: rejilla9
+    6400218: taquilla 1
+    6400220: taquilla 10
+    6400222: taquilla 11
+    6400224: taquilla 12
+    6400226: taquilla 13
+    6400228: taquilla 14
+    6400230: taquilla 15
+    6400232: taquilla 2
+    6400234: taquilla 3
+    6400236: taquilla 4
+    6400238: taquilla 5
+    6400240: taquilla 6
+    6400242: taquilla 7
+    6400244: taquilla 8
+    6400246: taquilla 9
+    6400248: techo 1
+    6400250: techo1
+    6400252: techo2
+    6400254: tuberia
+    6400256: tuberia1
+    6400258: tuberia2
+    6400260: tuberia3
+    6400262: tuberia4
+    6400264: varandilla 1
+    6400266: varandilla1
+    6400268: ventana
+    6400270: ventana1
+    6400272: ventana2
+    6400274: ventana3
+    6400276: ventana4
+    6400278: ventana5
+    6400280: wall_01_L
+    6400282: wall_01_R
+    6400284: wall_02_L
+    6400286: wall_02_L1
+    6400288: wall_03_L1
+    6400290: wall_03_R1
+    6400292: wall_0_center2
+    6400294: wall_0_center3
+    6400296: wall_modular_01
+    6400298: wall_modular_02
+    6400300: wall_modular_03
+    6400302: wall_modular_04
+    6400304: wall_modular_05
+    6400306: wall_modular_06
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
